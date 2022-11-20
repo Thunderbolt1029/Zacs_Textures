@@ -1,0 +1,9 @@
+{
+  "entity.player.death": {
+    "sounds": [
+      "custom/player_death"
+    ],
+	"replace": true,
+	"subtitle": "You're trash dude"
+  }
+}
